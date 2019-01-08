@@ -1,6 +1,6 @@
 # Principles-of-Geocomputing
 
-These labs were created for the Principles of Geocomputing course which is taught at the University of Minnesota by Eric Shook. I was the Teaching Assistant in the Spring of 2018. 
+These labs were created for the Principles of Geocomputing course which is taught at the University of Minnesota by Eric Shook. I was the Teaching Assistant in the Spring of 2018. This course is still developing as technologies and applications continue to evolve.
 
 
 
