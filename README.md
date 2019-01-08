@@ -1,4 +1,4 @@
-# Principles-of-Geocomputing
+# Principles-of-Geocomputing :snake:
 
 These labs were created for the Principles of Geocomputing course which is taught at the University of Minnesota by Eric Shook as an introduction to spatial computation. I was the Teaching Assistant in the Spring of 2018. 
 
