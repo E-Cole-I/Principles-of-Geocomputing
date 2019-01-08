@@ -5,7 +5,6 @@ These labs were created for the Principles of Geocomputing course which is taugh
 
 
 <br>
-<br>
 
 
 ## University of Minnesota Course Description
